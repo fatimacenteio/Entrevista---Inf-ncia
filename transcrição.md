@@ -1,5 +1,6 @@
 # Memórias de Infância - Transcrição da Entrevista
 
+## "Boa tarde. Neste momento, inicio a minha entrevista com o meu colega Alexandre."
 **Pergunta 1:** "Que palavras usarias para descrever a tua infância?"  
 **Resposta:** "Divertida, única, empolgante, inesquecível. Acho que seria inesquecível é uma palavra-chave."
 
@@ -35,4 +36,5 @@
 
 **Pergunta 12:** "Se pudesses reviver um dia da tua infância, qual escolherias e porquê?"  
 **Resposta:** "Eu escolheria um dia de Natal, pois é quando a família se reúne e é um momento muito especial."
+
 **É tudo.
