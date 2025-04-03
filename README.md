@@ -1,4 +1,4 @@
-## Entrevista: As Memórias da Minha Infância  
+## Entrevista: Memórias de Infância  
 
 **Entrevistadora:** Maria de Fátima Centeio
 
