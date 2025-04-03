@@ -37,4 +37,4 @@
 **Pergunta 12:** "Se pudesses reviver um dia da tua infância, qual escolherias e porquê?"  
 **Resposta:** "Eu escolheria um dia de Natal, pois é quando a família se reúne e é um momento muito especial."
 
-**É tudo.
+É tudo.
