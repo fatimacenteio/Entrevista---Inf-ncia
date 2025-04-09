@@ -2,7 +2,7 @@
 
 Este projeto contém o áudio "Memórias de Infância" e sua transcrição.
 
-[Ouvir o áudio](Áudio-Memórias%20de%20infância.mp3)
+%C3%81udio-Mem%C3%B3rias%20de%20inf%C3%A2ncia.mp3
 
 # Transcrição:
 
