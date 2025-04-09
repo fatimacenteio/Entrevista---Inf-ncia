@@ -2,9 +2,7 @@
 
 Este projeto contém o áudio "Memórias de Infância" e sua transcrição.
 
-### Áudio: Memórias de Infância - Alexandre
 
-[Ouvir o áudio](audio/Memórias%20de%20Infância-Alexandre.mp3)
 
 # Transcrição:
 
