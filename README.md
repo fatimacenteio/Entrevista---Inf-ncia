@@ -30,4 +30,6 @@ A presente entrevista foi realizada no âmbito do projecto **Memórias de Infân
 ## Encerramento
 
 Agradeço muito a sua colaboração, Alexandre. As suas respostas foram muito pertinentes e contribuíram significativamente para o meu trabalho. Desejo-lhe um excelente dia e agradeço o seu tempo.
+![Fotografia da entrevista com Alexandre](https://github.com/fatimacenteio/Entrevista-Alexandre/blob/main/entrevista4.jpeg)
 
+**Legenda:** Fotografia da entrevista com Alexandre, captada para este trabalho.
