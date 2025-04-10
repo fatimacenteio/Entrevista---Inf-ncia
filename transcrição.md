@@ -2,7 +2,7 @@
 
 Este projeto contém o áudio "Memórias de Infância" e sua transcrição.
 
-[Ouvir o áudio](Áudio-Memórias%20de%20infância.mp3)
+[Ouvir o áudio](https://github.com/fatimacenteio/Entrevista-Alexandre/blob/main/a%CC%81udio-memo%CC%81rias%20de%20infa%CC%82ncia.mp3)
 
 # Transcrição:
 
