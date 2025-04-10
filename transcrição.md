@@ -1,4 +1,14 @@
-# Entrevista - Memórias de Infância
+## Entrevista - Memórias de Infância
+
+Dados da Entrevista:
+
+Entrevistadora: Maria de Fátima Centeio
+
+Entrevistado: Alexandre Machado
+
+Data: 3 de Abril de 2025
+
+Local: Universidade do Minho
 
 Este projeto contém o áudio "Memórias de Infância" e sua transcrição.
 
