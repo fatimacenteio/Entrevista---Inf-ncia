@@ -27,5 +27,7 @@ A presente entrevista foi realizada no âmbito do projecto **Memórias de Infân
 ![Fotografia 3](https://github.com/fatimacenteio/Entrevista-Alexandre/blob/main/entrevista3.jpeg)
 **Descrição**: A terceira fotografia captura a conclusão da entrevista, onde Alexandre compartilha suas ideias sobre...
 
+## Encerramento
 
+Agradeço muito a sua colaboração, Alexandre. As suas respostas foram muito pertinentes e contribuíram significativamente para o meu trabalho. Desejo-lhe um excelente dia e agradeço o seu tempo.
 
