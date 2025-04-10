@@ -16,17 +16,17 @@ A presente entrevista foi realizada no âmbito do projecto **Memórias de Infân
 
 ## Fotografias da Entrevista
 
-### Imagem 1
-![Entrevista 1](https://github.com/fatimacenteio/Entrevista-Alexandre/blob/main/entrevista1.jpeg)
+### Fotografia 1
+![Fotografia 1](https://github.com/fatimacenteio/Entrevista-Alexandre/blob/main/entrevista1.jpeg)
 **Descrição**: Esta fotografia mostra a primeira parte da entrevista com Alexandre, abordando temas sobre...
 
-### Imagem 2
-![Entrevista 2](https://github.com/fatimacenteio/Entrevista-Alexandre/blob/main/entrevista2.jpeg)
+### Fotografia 2
+![Fotografia 2](https://github.com/fatimacenteio/Entrevista-Alexandre/blob/main/entrevista2.jpeg)
 **Descrição**: A segunda fotografia apresenta o momento em que Alexandre fala sobre...
 
-### Imagem 3
-![Entrevista 3](https://github.com/fatimacenteio/Entrevista-Alexandre/blob/main/entrevista3.jpeg)
-**Descrição**: A terceira imagem captura a conclusão da entrevista, onde Alexandre compartilha suas ideias sobre...
+### Fotografia 3
+![Fotografia 3](https://github.com/fatimacenteio/Entrevista-Alexandre/blob/main/entrevista3.jpeg)
+**Descrição**: A terceira fotografia captura a conclusão da entrevista, onde Alexandre compartilha suas ideias sobre...
 
 
 
