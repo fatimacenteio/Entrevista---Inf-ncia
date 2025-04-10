@@ -14,13 +14,13 @@ A presente entrevista foi realizada no âmbito do projecto **Memórias de Infân
 
 ## 📸 Fotografias da Entrevista
 
-![Entrevista 1](entrevista1.jpg)
+https://github.com/fatimacenteio/Entrevista-Alexandre/blob/main/entrevista1.jpeg
 **Descrição da Fotografia 1**
 
-![Entrevista 2](entrevista2.jpg)
+https://github.com/fatimacenteio/Entrevista-Alexandre/blob/main/entrevista2.jpeg
 **Descrição da Fotografia 2**
 
-![Entrevista 3](entrevista3.jpg)
+https://github.com/fatimacenteio/Entrevista-Alexandre/blob/main/entrevista3.jpeg
 **Descrição da Fotografia 3**
 
 
