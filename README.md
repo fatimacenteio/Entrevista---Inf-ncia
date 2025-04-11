@@ -37,7 +37,7 @@ A segunda fotografia captura um momento do aniversário de infância de Alexandr
 **Descrição**: 
 Esta terceira fotografia da infância de Alexandre regista um passeio a Peniche, junto a um barco e uma falésia"
 
-## Encerramento
+## Encerramento:
 
 Agradeço muito a sua colaboração, Alexandre. As suas respostas foram muito pertinentes e contribuíram significativamente para o meu trabalho. Desejo-lhe um excelente dia e agradeço o seu tempo.
 ![Fotografia da entrevista com Alexandre](https://github.com/fatimacenteio/Entrevista-Alexandre/blob/main/entrevista4.jpeg)
