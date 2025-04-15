@@ -16,14 +16,16 @@ A presente entrevista foi realizada no âmbito do projecto **Memórias de Infân
 
 ### 📸 Fotografias Ilustrativas das Memórias de Infância do Alexandre
 
-**fotografia**
+**Fotografia1**
 ![Entrevista com Alexandre](INT.%20WEB/fotografia1.jpeg)
+
 **Descrição**:
 
 Esta primeira fotografia retrata Alexandre em criança, o entrevistado neste projeto 'Memórias de Infância'. O fundo da imagem, embora desfocado, sugere um ambiente infantil com formas coloridas. Esta imagem oferece um vislumbre da infância recordada por Alexandre na entrevista.
 
-**fotografia2**
+**Fotografia2**
 ![Entrevista com Alexandre](INT.%20WEB/fotografia2.jpeg)
+
 **Descrição**: 
 A segunda fotografia captura um momento do aniversário de infância de Alexandre no infantário, rodeado pelos seus colegas à volta do bolo. As suas expressões faciais denotam expectativa e alegria.
 
