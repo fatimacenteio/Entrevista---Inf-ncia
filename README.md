@@ -18,7 +18,7 @@ A presente entrevista foi realizada no âmbito do projecto **Memórias de Infân
 
 **Fotografia1**
 
-<img src="INT.%20WEB/fotografia1.jpeg" alt="Entrevista com Alexandre" width="400"/>
+![Foto 1](https://github.com/fatimacenteio/Entrevista-Alexandre/blob/main/fotografia1.jpeg?raw=true)
 
 **Descrição**:
 
@@ -26,7 +26,8 @@ Esta primeira fotografia retrata Alexandre em criança, o entrevistado neste pro
 
 **Fotografia2**
 
-<img src="INT.%20WEB/fotografia2.jpeg" alt="Entrevista com Alexandre" width="400"/>
+![Foto 2](https://github.com/fatimacenteio/Entrevista-Alexandre/blob/main/fotografia2.jpeg?raw=true)
+
 
 
 **Descrição**: 
@@ -34,7 +35,7 @@ A segunda fotografia captura um momento do aniversário de infância de Alexandr
 
 **Fotografia3**
 
-<img src="INT.%20WEB/fotografia3.jpeg" alt="Entrevista com Alexandre" width="400"/>
+![Foto 3](https://github.com/fatimacenteio/Entrevista-Alexandre/blob/main/fotografia3.jpeg?raw=true)
 
 **Descrição**: 
 Esta terceira fotografia da infância de Alexandre regista um passeio a Peniche, junto a um barco e uma falésia.
@@ -43,6 +44,6 @@ Esta terceira fotografia da infância de Alexandre regista um passeio a Peniche,
 
 Agradeço muito a sua colaboração, Alexandre. As suas respostas foram muito pertinentes e contribuíram significativamente para o meu trabalho. Desejo-lhe um excelente dia e agradeço o seu tempo.
 
-<img src="INT.%20WEB/fotografia4.jpeg" alt="Entrevista com Alexandre" width="400"/>
+![Foto 4](https://github.com/fatimacenteio/Entrevista-Alexandre/blob/main/fotografia4.jpeg?raw=true)
 
 
