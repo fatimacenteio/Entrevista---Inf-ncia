@@ -16,7 +16,7 @@ A presente entrevista foi realizada no âmbito do projecto **Memórias de Infân
 
 ### 📸 Fotografias Ilustrativas das Memórias de Infância do Alexandre
 
-**Fotografia1**
+**Fotografia 1**
 
 ![Foto 1](https://github.com/fatimacenteio/Entrevista-Alexandre/blob/main/fotografia1.jpeg?raw=true)
 
@@ -24,7 +24,7 @@ A presente entrevista foi realizada no âmbito do projecto **Memórias de Infân
 
 Esta primeira fotografia retrata Alexandre em criança, o entrevistado neste projeto 'Memórias de Infância'. O fundo da imagem, embora desfocado, sugere um ambiente infantil com formas coloridas. Esta imagem oferece um vislumbre da infância recordada por Alexandre na entrevista.
 
-**Fotografia2**
+**Fotografia 2**
 
 ![Foto 2](https://github.com/fatimacenteio/Entrevista-Alexandre/blob/main/fotografia2.jpeg?raw=true)
 
@@ -33,7 +33,7 @@ Esta primeira fotografia retrata Alexandre em criança, o entrevistado neste pro
 **Descrição**: 
 A segunda fotografia captura um momento do aniversário de infância de Alexandre no infantário, rodeado pelos seus colegas à volta do bolo. As suas expressões faciais denotam expectativa e alegria.
 
-**Fotografia3**
+**Fotografia 3**
 
 ![Foto 3](https://github.com/fatimacenteio/Entrevista-Alexandre/blob/main/fotografia3.jpeg?raw=true)
 
